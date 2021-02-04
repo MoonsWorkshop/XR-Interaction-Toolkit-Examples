@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "com.htc.upm.vive.openxr.controllers": {
+      "version": "file:C:/Users/ARt/Downloads/com_htc_upm_vive.openxr.controllers-0.1.0-preview.4.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.xr.management": "3.2.16",
+        "com.unity.xr.legacyinputhelpers": "2.1.2",
+        "com.unity.inputsystem": "1.1.0-preview.1",
+        "com.unity.xr.openxr": "0.1.1-preview.1"
+      }
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
